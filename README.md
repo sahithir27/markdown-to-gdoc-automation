@@ -44,6 +44,7 @@ To run in Google Colab:
    !pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
    ```
 4. Run all cells.
+5. Validate the result in Google docs
 
 ## Dependencies
 - Python 3+
